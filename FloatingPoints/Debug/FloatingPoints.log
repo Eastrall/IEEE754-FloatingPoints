@@ -1,13 +1,8 @@
-﻿La génération a démarré 21/10/2015 21:28:59.
-     1>Projet "C:\Users\gomes\Documents\Visual Studio 2013\Projects\FloatingPoints\FloatingPoints\FloatingPoints.vcxproj" sur le nœud 2 (Build cible(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
-         main.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gomes\Documents\Visual Studio 2013\Projects\FloatingPoints\Debug\FloatingPoints.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\gomes\Documents\Visual Studio 2013\Projects\FloatingPoints\Debug\FloatingPoints.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gomes\Documents\Visual Studio 2013\Projects\FloatingPoints\Debug\FloatingPoints.lib" /MACHINE:X86 Debug\main.obj
-         FloatingPoints.vcxproj -> C:\Users\gomes\Documents\Visual Studio 2013\Projects\FloatingPoints\Debug\FloatingPoints.exe
-     1>Génération du projet "C:\Users\gomes\Documents\Visual Studio 2013\Projects\FloatingPoints\FloatingPoints\FloatingPoints.vcxproj" terminée (Build cible(s)).
+﻿La génération a démarré 22/10/2015 13:17:52.
+     1>Projet "C:\Users\gomes\Documents\GitHub\IEEE754-FloatingPoints\FloatingPoints\FloatingPoints.vcxproj" sur le nœud 2 (Clean cible(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : Le processus ne peut pas accéder au fichier 'c:\users\gomes\documents\github\ieee754-floatingpoints\floatingpoints\debug\floatingpoints.tlog\link.read.1.tlog', car il est en cours d'utilisation par un autre processus.
+     1>Génération du projet "C:\Users\gomes\Documents\GitHub\IEEE754-FloatingPoints\FloatingPoints\FloatingPoints.vcxproj" terminée (Clean cible(s)).
 
 La génération a réussi.
 
-Temps écoulé 00:00:00.73
+Temps écoulé 00:00:00.03
